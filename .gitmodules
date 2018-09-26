@@ -1,0 +1,3 @@
+[submodule "PaperFootball_Java"]
+	path = PaperFootball_Java
+	url = https://github.com/Kurtewitz/PaperFootball_Java.git
